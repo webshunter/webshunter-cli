@@ -1,6 +1,6 @@
 {
   "name": "webshunter-cli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "webshunter cli command",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "author": "gugus",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "fs": "^0.0.1-security",
     "i": "^0.3.7",
     "npm": "^10.4.0",
